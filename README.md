@@ -1,16 +1,38 @@
-## Hi there 👋
+### Hi there, I'm [Nama Panggilan Kamu]! 👋
 
-<!--
-**andiraflisyam/andiraflisyam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Seorang mahasiswa Teknik Informatika (Semester 5) yang antusias membangun solusi perangkat lunak dan sistem cerdas. Saat ini sedang mendalami **Mobile Development (Android)** dan **Internet of Things (IoT)**.
 
-Here are some ideas to get you started:
+Saya senang mengubah baris kode menjadi solusi nyata, mulai dari aplikasi manajemen UMKM hingga sistem deteksi kebakaran pintar.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Tools
+* **Mobile:** Android Studio, Kotlin, Java
+* **Web:** PHP (Native), HTML5, CSS3, MySQL
+* **IoT:** ESP32, Arduino, C++, Blynk Platform, Sensors (MQ-2, TMP36)
+* **Design:** Figma (UI/UX Basics)
+
+---
+
+### 🚀 Featured Projects
+
+| 📱 **PyroGuard (IoT)** | 💻 **MitraLokal (Web)** |
+| :--- | :--- |
+| Sistem deteksi kebakaran pintar berbasis IoT dengan notifikasi real-time via Blynk. | Platform digitalisasi UMKM dengan fitur katalog, transaksi, dan modul edukasi bisnis. |
+| [Lihat Project →](https://github.com/USERNAME-KAMU/PyroGuard-IoT) | [Lihat Project →](https://github.com/USERNAME-KAMU/MitraLokal) |
+| *ESP32 • C++ • Blynk* | *PHP • MySQL • Bootstrap* |
+
+---
+
+### 📈 GitHub Stats
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=USERNAME-KAMU&show_icons=true&theme=radical" alt="Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME-KAMU&layout=compact&theme=radical" alt="Languages" />
+</p>
+
+---
+
+### 📫 Connect with Me
+* 💼 **LinkedIn:** [Nama Kamu di LinkedIn](Link-LinkedIn-Kamu)
+* 📧 **Email:** [Email Kamu]
+* 🌐 **Portofolio:** [Link Fastwork/Notion jika ada]
