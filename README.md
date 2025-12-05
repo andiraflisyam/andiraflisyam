@@ -19,15 +19,15 @@ Saya senang mengubah baris kode menjadi solusi nyata, mulai dari aplikasi manaje
 | 📱 **PyroGuard (IoT)** | 💻 **MitraLokal (Web)** |
 | :--- | :--- |
 | Sistem deteksi kebakaran pintar berbasis IoT dengan notifikasi real-time via Blynk. | Platform digitalisasi UMKM dengan fitur katalog, transaksi, dan modul edukasi bisnis. |
-| [Lihat Project →](https://github.com/USERNAME-KAMU/PyroGuard-IoT) | [Lihat Project →](https://github.com/USERNAME-KAMU/MitraLokal) |
+| [Lihat Project →](https://github.com/andiraflisyam/PyroGuard-IoT) | [Lihat Project →](https://github.com/andiraflisyam/MitraLokal) |
 | *ESP32 • C++ • Blynk* | *PHP • MySQL • Bootstrap* |
 
 ---
 
 ### 📈 GitHub Stats
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=USERNAME-KAMU&show_icons=true&theme=radical" alt="Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME-KAMU&layout=compact&theme=radical" alt="Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=andiraflisyam&show_icons=true&theme=radical" alt="Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andiraflisyam&layout=compact&theme=radical" alt="Languages" />
 </p>
 
 ---
