@@ -1,4 +1,4 @@
-### Hi there, I'm [Nama Panggilan Kamu]! 👋
+### Hi there, I'm Andi Rafli! 👋
 
 Seorang mahasiswa Teknik Informatika (Semester 5) yang antusias membangun solusi perangkat lunak dan sistem cerdas. Saat ini sedang mendalami **Mobile Development (Android)** dan **Internet of Things (IoT)**.
 
@@ -33,6 +33,5 @@ Saya senang mengubah baris kode menjadi solusi nyata, mulai dari aplikasi manaje
 ---
 
 ### 📫 Connect with Me
-* 💼 **LinkedIn:** [Nama Kamu di LinkedIn](Link-LinkedIn-Kamu)
-* 📧 **Email:** [Email Kamu]
-* 🌐 **Portofolio:** [Link Fastwork/Notion jika ada]
+* 💼 **LinkedIn:** Andi Rafli www.linkedin.com/in/andi-rafli-3a92b8310
+* 📧 **Email:** rafliandi318@gmail.com
